@@ -65,4 +65,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Acknowledgments
 
 - This site was built using the Vonge Jekyll Bookshop template
-- The Bo Whitepaper was created by the Bo AI research team 
+- The Bo Whitepaper was created by the Bo AI research team
+
+<!-- Trigger build --> 
