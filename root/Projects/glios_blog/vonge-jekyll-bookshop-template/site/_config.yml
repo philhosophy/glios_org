@@ -1,4 +1,5 @@
 title: Bo AI Blog
+future: true
 
 plugins:
   - jekyll-bookshop
