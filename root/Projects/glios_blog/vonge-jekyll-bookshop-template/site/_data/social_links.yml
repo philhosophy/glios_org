@@ -1,0 +1,9 @@
+#-------------------------------
+# Social Links
+# Example of adding a new link to the footer - {icon: "ion-logo-facebook", link: "https://facebook.com"}
+# Other icons can be found at https://ionicons.com/v4/
+social:
+- {icon: "Twitter", link: "https://twitter.com/BoAICompanion"}
+- {icon: "Github", link: "https://github.com/bo-ai"}
+- {icon: "Linkedin", link: "https://linkedin.com/company/bo-ai"}
+- {icon: "Youtube", link: "https://youtube.com/c/boaicompanion"}

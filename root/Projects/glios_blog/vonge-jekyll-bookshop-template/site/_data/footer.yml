@@ -1,0 +1,15 @@
+footer_menu__settings:
+  menu__items:
+    - title: 'Home'
+      url: '/'
+    - title: 'Projects'
+      url: '/projects/'
+    - title: 'Blog'
+      url: '/blog/'
+    - title: 'Whitepaper'
+      url: '/whitepaper/'
+    - title: 'About'
+      url: '/about/'
+
+copyright_text_html: >-
+  <p> 2025 &copy; <a href="/">Bo AI</a>. A compassionate AI companion for deeper connection.</p>
