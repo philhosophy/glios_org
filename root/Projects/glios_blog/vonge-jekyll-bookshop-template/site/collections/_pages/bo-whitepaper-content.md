@@ -310,7 +310,7 @@ This 12-week plan targets a functional MVP demonstrating the core voice interact
 
 ## 7. Beyond MVP: The Path to the Bodhisattva
 
-Post-MVP, development will focus on expanding Bo's capabilities and enriching the Glios platform:
+Post-MVP, development will focus on expanding Bo's capabilities and enriching the GLiOS platform:
 
 * **Rapport & Growth Phases:** Develop o4-mini prompts and KG interactions for more nuanced rapport-building and deeper, growth-oriented conversations.
 * **LightRAG Integration:** Feed full transcripts to LightRAG for deeper pattern analysis, sentiment tracking, and insight generation to inform Bo's long-term understanding of the user.
